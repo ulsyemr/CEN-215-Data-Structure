@@ -23,5 +23,4 @@ My project is about passwords. In the project folder there is "10-million-passwo
 │       10000.txt
 │       100000.txt
 │       1000000.txt
-│
 ```
